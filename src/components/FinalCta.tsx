@@ -18,7 +18,7 @@ export default function FinalCta() {
           </h2>
           <p className="mt-4 max-w-2xl text-lg leading-relaxed text-[#EDE7DC]/75">
             Entre em contato para apresentar o seu caso e receber uma orientação clara, segura e
-            personalizada.
+            personalizada. Atendimento online e presencial.
           </p>
         </div>
 
